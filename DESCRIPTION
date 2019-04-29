@@ -1,0 +1,15 @@
+Package: maddyMisc
+Type: Package
+Title: Functions by Maddy Ramser
+Version: 0.1.0
+Author: Maddy Ramser <mjramser@georgetowncollege.edu>
+Maintainer: Maddy Ramser <mjramser@georgetowncollege.edu>
+Description: Various functions, some useful and others fun.
+License: GPL (>=3)
+Encoding: UTF-8
+LazyData: true
+Imports:
+    ggplot2,
+    mosaicData,
+    plyr
+RoxygenNote: 6.1.1

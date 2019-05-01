@@ -8,9 +8,8 @@ Description: Various functions, some useful and others fun.
 License: GPL (>=3)
 Encoding: UTF-8
 LazyData: true
+Depends: R (>= 2.10)
 Imports:
     ggplot2,
-    mosaicData,
-    plyr, 
     utils
 RoxygenNote: 6.1.1
